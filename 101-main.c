@@ -34,12 +34,10 @@ listint_t *create_listint(const int *array, size_t size)
 }
 
 /**
-
  * main - Entry point
  *
  * Return: Always 0
  */
-
 int main(void)
 {
     listint_t *list;
